@@ -1,0 +1,47 @@
+.policeWoman{
+    width: 300px;
+    height: 450px;
+    border-radius: 234.619px;
+}
+
+.enquiry{
+    position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+.blueBall1{
+  position: absolute;
+  top: 8%;
+  right: 10%
+}
+
+.greenBall1{
+  position: absolute;
+  top: 80%;
+  right: -10%
+}
+
+.redBall1{
+  position: absolute;
+  top: 15%;
+  right: 110%
+}
+
+.redBall2{
+  position: absolute;
+  top: 50%;
+  right: 150%
+}
+
+.redBall3{
+  position: absolute;
+  top: 15%;
+  right: 100%
+}
+
+.redBall4{
+  position: absolute;
+  top: 50%;
+  right: 110%
+}
